@@ -9,6 +9,7 @@
 6. Upon entering the strapi admin go straight to Marketplace on the sidebar menu admin and download teh Graphql plugin. Just wait for it to finish downloading and it will restart the server automatically for just minute.
 
 Sample Code Querying using GraphQl
+Graphql URL link: http://localhost:1337/graphql
 
 query{
   homepage(id: 1){
